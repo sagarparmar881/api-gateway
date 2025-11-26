@@ -1,4 +1,3 @@
-# `src/main/resources/application-dev.yml`
 product:
   service:
     url: https://product-service-sk1u.onrender.com/

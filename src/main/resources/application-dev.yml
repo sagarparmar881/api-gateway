@@ -1,0 +1,10 @@
+# `src/main/resources/application-dev.yml`
+product:
+  service:
+    url: https://product-service-sk1u.onrender.com/
+order:
+  service:
+    url: https://order-service-hko9.onrender.com/
+inventory:
+  service:
+    url: https://inventory-service-1dmr.onrender.com
